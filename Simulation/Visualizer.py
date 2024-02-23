@@ -1,7 +1,7 @@
 
 """
     Reference: @ARTICLE{9716852,
-  author={Rahman, Lubaba Tazrian and Akhter, Mahmud Elahi and Sayem, Faizul Rakib and Hossain, Mainul and Ahmed, Rajib and Elahi, M. M. Lutfe and Ali, Khaleda and Islam, Sharnali},
+  author={Rahman, Lubaba Tazrian and Akhter, Mahmud Elahi, and Sayem, Faizul Rakib and Hossain, Mainul and Ahmed, Rajib and Elahi, M. M. Lutfe and Ali, Khaleda and Islam, Sharnali},
   journal={IEEE Access},
   title={A 1.55 μm Wideband 1 × 2 Photonic Power Splitter With Arbitrary Ratio: Characterization and Forward Modeling},
   year={2022},
